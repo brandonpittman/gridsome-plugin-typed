@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-typed",
-  "description": "Typescript plugin for Gridsome",
+  "description": "Typescript & TSX plugin for Gridsome",
   "version": "0.0.6",
   "license": "MIT",
   "main": "index.js",
@@ -22,15 +22,14 @@
     "gridsome",
     "gridsome-plugin",
     "gridsome-typescript",
-    "typescript"
+    "typescript",
+    "tsx"
   ],
-  "scripts": {
-    "release": "standard-version"
-  },
   "peerDependencies": {
     "gridsome": "*",
     "typescript": "*",
-    "ts-loader": "*"
-  },
-  "devDependencies": {}
+    "ts-loader": "*",
+    "fork-ts-checker-webpack-plugin": "*",
+    "babel-loader": "*"
+  }
 }
