@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-typed",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "TypeScript and TSX support for Gridsome.",
   "main": "gridsome.client.js",
   "keywords": [
