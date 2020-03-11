@@ -1,7 +1,7 @@
 {
   "name": "gridsome-plugin-typed",
   "description": "Typescript & TSX plugin for Gridsome",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "main": "index.js",
   "homepage": "https://github.com/brandonpittman/gridsome-plugin-typed#readme",
