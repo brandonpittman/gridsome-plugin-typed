@@ -1,12 +1,11 @@
 {
   "name": "gridsome-plugin-typed",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "TypeScript and TSX support for Gridsome.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "keywords": [
+    "Gridsome", "TypeScript", "TSX"
+  ],
   "author": "Brandon Pittman <npm@brandonpittman.net> (https://brandonpittman.net)",
   "license": "MIT",
   "dependencies": {
