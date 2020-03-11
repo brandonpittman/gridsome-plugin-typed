@@ -60,4 +60,4 @@ declare module "*.vue" {
 
 ## Future
 
-I submitted a PR to gridsome/gridsome to allow you to use `.jsx` and `.js` files are page files. I got the same thing working with `.ts` and `.tsx` files, but I'm not sure if the Gridsome team has any interest in supporting that feature. For the meantime, you can use TypeScript in `.vue` files!
+I submitted a PR for Gridsome to allow you to use `.jsx` and `.js` files as page files. I got the same thing working with `.ts` and `.tsx` files, but I'm not sure if the Gridsome team has any interest in supporting that feature. For the meantime, you can use TypeScript in `.vue` files!
