@@ -1,0 +1,18 @@
+{
+  "name": "gridsome-plugin-typed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brandon Pittman <npm@brandonpittman.net> (https://brandonpittman.net)",
+  "license": "MIT",
+  "dependencies": {
+    "babel-loader": "^8.0.6",
+    "fork-ts-checker-webpack-plugin": "^4.0.5",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.8.3"
+  }
+}
