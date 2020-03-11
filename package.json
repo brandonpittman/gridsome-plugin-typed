@@ -4,14 +4,15 @@
   "description": "TypeScript and TSX support for Gridsome.",
   "main": "gridsome.client.js",
   "keywords": [
-    "Gridsome", "TypeScript", "TSX"
+    "Gridsome",
+    "TypeScript",
+    "TSX"
   ],
   "author": "Brandon Pittman <npm@brandonpittman.net> (https://brandonpittman.net)",
   "license": "MIT",
-  "dependencies": {
-    "babel-loader": "^8.0.6",
-    "fork-ts-checker-webpack-plugin": "^4.0.5",
-    "ts-loader": "^6.2.1",
-    "typescript": "^3.8.3"
+  "peerDependencies": {
+    "gridsome": "*",
+    "typescript": "*",
+    "ts-loader": "*"
   }
 }
